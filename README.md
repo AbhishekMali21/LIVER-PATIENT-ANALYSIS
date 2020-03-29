@@ -1,6 +1,21 @@
-
-
 # LIVER-PATIENT-ANALYSIS
+
+[![author](https://img.shields.io/badge/author-Abhishek-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/abhishekmali/)
+[![GitHub followers](https://img.shields.io/github/followers/AbhishekMali21?style=social)](https://github.com/AbhishekMali21?tab=followers)
+[![GitHub watchers](https://img.shields.io/github/watchers/AbhishekMali21/LIVER-PATIENT-ANALYSIS?style=social)](https://github.com/AbhishekMali21/LIVER-PATIENT-ANALYSIS/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/LIVER-PATIENT-ANALYSIS?style=social)](https://github.com/AbhishekMali21/LIVER-PATIENT-ANALYSIS/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/LIVER-PATIENT-ANALYSIS?style=social)](https://github.com/AbhishekMali21/LIVER-PATIENT-ANALYSIS/network/members)
+
+![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/LIVER-PATIENT-ANALYSIS?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/LIVER-PATIENT-ANALYSIS?logoColor=9cf&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AbhishekMali21/LIVER-PATIENT-ANALYSIS?logoColor=important&style=flat-square)
+
+[![GitHub issues](https://img.shields.io/github/issues/AbhishekMali21/LIVER-PATIENT-ANALYSIS?style=flat-square)](https://github.com/AbhishekMali21/LIVER-PATIENT-ANALYSIS/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/AbhishekMali21/LIVER-PATIENT-ANALYSIS?style=flat-square)](https://github.com/AbhishekMali21/LIVER-PATIENT-ANALYSIS/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/AbhishekMali21/LIVER-PATIENT-ANALYSIS?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/LIVER-PATIENT-ANALYSIS/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbhishekMali21/LIVER-PATIENT-ANALYSIS?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/LIVER-PATIENT-ANALYSIS/pulls?q=is%3Apr+is%3Aclosed)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/AbhishekMali21/LIVER-PATIENT-ANALYSIS/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/AbhishekMali21/LIVER-PATIENT-ANALYSIS.svg)](http://hits.dwyl.com/AbhishekMali21/LIVER-PATIENT-ANALYSIS)
 
 ### Objectives of Research
 In India, delayed diagnosis of diseases is a fundamental problem due to a shortage of medical
